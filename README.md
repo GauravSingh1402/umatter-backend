@@ -7,4 +7,4 @@ The dataset is available [here](https://www.kaggle.com/datasets/osmi/mental-heal
 
 Try out the app [here](http://umatter-mental-health.vercel.app/).
 
-Frontend code can be found at - [umatter-backend](https://github.com/GauravSingh1402/umatter-frontend).
+Frontend code can be found at - [umatter-frontend](https://github.com/GauravSingh1402/umatter-frontend).
